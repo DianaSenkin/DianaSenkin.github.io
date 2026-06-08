@@ -2,7 +2,7 @@
 
 ### About Me
 
-- **Expertise:** HTML, CSS, Git, Phyton
+
 - **Location:** Lviv, Ukraine
 
 ---
