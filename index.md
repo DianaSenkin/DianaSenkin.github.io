@@ -1,4 +1,5 @@
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -15,7 +16,6 @@
             </div>
             <div class="user-meta">
                 <h1>Diana Senkin</h1>
-                <p class="username">DianaSenkin</p>
                 <p class="bio">Student</p>
             </div>
         </aside>
@@ -24,7 +24,7 @@
             <section class="info-card">
                 <h3>About Me</h3>
                 <ul>
-                    <li><strong>Experience:</strong> Phyton Fundamentals Softserve academy</li>
+                    <li><strong>Experience:</strong> Python Fundamentals Softserve academy</li>
                     <li><strong>Location:</strong> Lviv, Ukraine</li>
                 </ul>
             </section>
