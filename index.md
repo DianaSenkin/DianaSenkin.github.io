@@ -24,7 +24,7 @@
             <section class="info-card">
                 <h3>About Me</h3>
                 <ul>
-                    <li><strong>Experience:</strong> Phyton Fundamentals <a href="file:///C:/Users/Kraken/Downloads/Certificate%20(1).pdf"></a>Softserve academy</a></li>
+                    <li><strong>Experience:</strong> Phyton Fundamentals Softserve academy</li>
                     <li><strong>Location:</strong> Lviv, Ukraine</li>
                 </ul>
             </section>
